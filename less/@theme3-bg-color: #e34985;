@@ -1,0 +1,17 @@
+@theme3-bg-color: #e34985;
+@theme3-text-color: #e9e7d3;
+@theme3-credit-color: #333;
+@theme3-logo-path: url('../img/unfpa-color.svg');
+@theme3-sq-logo-width: 208px;
+@theme3-sq-logo-height: 98px;
+@theme3-16x9-logo-width: 173px;
+@theme3-16x9-logo-height: 83px;
+
+@theme3-bg-color: #999;
+@theme3-text-color: #000;
+@theme3-credit-color: #333;
+@theme3-logo-path: url('../img/unfpa-black.svg');
+@theme3-sq-logo-width: 208px;
+@theme3-sq-logo-height: 98px;
+@theme3-16x9-logo-width: 173px;
+@theme3-16x9-logo-height: 83px;
