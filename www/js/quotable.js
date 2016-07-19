@@ -12,32 +12,32 @@ var $logoWrapper = null;
 
 var quotes = [
     {
-        "quote": "I'd been drinking.",
-        "source": "Dennis Rodman"
+        "quote": "Stick to the ICPD.",
+        "source": "Babatunde Osotimehin"
     },
     {
-        "quote": "I've made a huge mistake.",
-        "source": "G.O.B."
+        "quote": "This is what innovation looks like.",
+        "source": "Bruce Cambell"
     },
     {
-        "quote": "Yes, I have smoked crack cocaine",
-        "source": "Toronto Mayor Rob Ford",
+        "quote": "Love is at the heart of everything UNFPA does in Maldives.",
+        "source": "Alain Sibenaler",
         "size": 65
     },
     {
-        "quote": "Annyong.",
-        "source": "Annyong",
+        "quote": "Bye!",
+        "source": "Kate Gilmore",
         "size": 90
     },
     {
-        "quote": "STEVE HOLT!",
-        "source": "Steve Holt",
-        "size": 65
+        "quote": "Get ready for this thing to go crazy.",
+        "source": "Anita Wiseman",
+        "size": 50
     },
     {
-        "quote": "Whoa, whoa, whoa. There's still plenty of meat on that bone. Now you take this home, throw it in a pot, add some broth, a potato. Baby, you've got a stew going.",
-        "source": "Carl Weathers",
-        "size": 40
+        "quote": "Women are engines of development, the soul of communities. How do we socialize boys to understand: Women are just as important, if not moreso?",
+        "source": "Babatunde Osotimehin",
+        "size": 35
     }
 ];
 

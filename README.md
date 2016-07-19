@@ -18,6 +18,8 @@ What is this?
 * *Factlist*: Produces a branded image with a list of items.
 * *Waterbug*: Creates a watermarked image with attribution.
 
+See [what the generic version looks like](http://blog.apps.npr.org/lunchbox/). 
+
 Assumptions
 -------------
 

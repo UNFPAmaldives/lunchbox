@@ -54,4 +54,4 @@ www/assets/*
 www/live-data/*
 
 # built apps
-electron
+electrongh-pages/
