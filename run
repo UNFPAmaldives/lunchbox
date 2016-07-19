@@ -1,0 +1,13 @@
+
+nano ~/.bashrc
+
+export WORKON_HOME=~/.environments
+source /usr/local/bin/virtualenvwrapper.sh
+
+source ~/.bashrc
+
+mkvirtualenv lunchbox
+cd /Users/john/Documents/UNFPA-Maldives/MPop/content/Infographics/lunchbox
+pip install -r requirements.txt
+npm install
+fab app
